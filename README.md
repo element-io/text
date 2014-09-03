@@ -25,7 +25,7 @@ var text = new Text();
 The `text` instance has the following methods...
 
 
-#### content( [content] )
+#### text.content( [content] )
 
 This method is a setter/getter. If no `content` is provided, returns the text `content`. To set the text `content`
 
@@ -36,7 +36,7 @@ text.content( 'beep' );
 Note: setting new `content` will replace any existing content.
 
 
-#### append( content )
+#### text.append( content )
 
 This is a convenience method for appending new `content` to existing content. 
 
@@ -49,7 +49,7 @@ text.append( 'boop' );
 ```
 
 
-#### toString()
+#### text.toString()
 
 Serializes the node as a `string`; i.e., returns the text `content`. 
 
