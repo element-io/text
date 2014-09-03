@@ -8,7 +8,7 @@ Text Node
 ## Installation
 
 ``` bash
-$ npm install minimal-text-class
+$ npm install minimal-text-class --save
 ```
 
 
