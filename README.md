@@ -82,12 +82,6 @@ $ node ./examples/index.js
 ```
 
 
-## Notes
-
-
-
-
-
 ## Tests
 
 ### Unit
