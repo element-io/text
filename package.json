@@ -20,16 +20,17 @@
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "git://github.com/element-io/minimal-text-class.git"
+    "url": "git://github.com/element-io/text.git"
   },
   "keywords": [
     "DOM",
     "html",
     "element",
-    "text"
+    "text",
+    "minimal element"
   ],
   "bugs": {
-    "url": "https://github.com/element-io/minimal-text-class/issues"
+    "url": "https://github.com/element-io/text/issues"
   },
   "dependencies": {},
   "devDependencies": {
