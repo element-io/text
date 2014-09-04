@@ -125,17 +125,17 @@ Copyright &copy; 2014. Athan Reines.
 [npm-image]: http://img.shields.io/npm/v/minimal-text-class.svg
 [npm-url]: https://npmjs.org/package/minimal-text-class
 
-[travis-image]: http://img.shields.io/travis/element-io/minimal-text-class/master.svg
-[travis-url]: https://travis-ci.org/element-io/minimal-text-class
+[travis-image]: http://img.shields.io/travis/element-io/text/master.svg
+[travis-url]: https://travis-ci.org/element-io/text
 
-[coveralls-image]: https://img.shields.io/coveralls/element-io/minimal-text-class/master.svg
-[coveralls-url]: https://coveralls.io/r/element-io/minimal-text-class?branch=master
+[coveralls-image]: https://img.shields.io/coveralls/element-io/text/master.svg
+[coveralls-url]: https://coveralls.io/r/element-io/text?branch=master
 
-[dependencies-image]: http://img.shields.io/david/element-io/minimal-text-class.svg
-[dependencies-url]: https://david-dm.org/element-io/minimal-text-class
+[dependencies-image]: http://img.shields.io/david/element-io/text.svg
+[dependencies-url]: https://david-dm.org/element-io/text
 
-[dev-dependencies-image]: http://img.shields.io/david/dev/element-io/minimal-text-class.svg
-[dev-dependencies-url]: https://david-dm.org/dev/element-io/minimal-text-class
+[dev-dependencies-image]: http://img.shields.io/david/dev/element-io/text.svg
+[dev-dependencies-url]: https://david-dm.org/dev/element-io/text
 
-[github-issues-image]: http://img.shields.io/github/issues/element-io/minimal-text-class.svg
-[github-issues-url]: https://github.com/element-io/minimal-text-class/issues
+[github-issues-image]: http://img.shields.io/github/issues/element-io/text.svg
+[github-issues-url]: https://github.com/element-io/text/issues
